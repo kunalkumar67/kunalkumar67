@@ -1,3 +1,6 @@
+# Hey there!🙋‍♂️, My name is Kunal Kumar
+
+# A recent CSIT grad || Data Engineering Trainee || Aspiring Data Analyst
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ridd____ler) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kunal-kumar-b35362250) 
