@@ -2,6 +2,15 @@
 
 # CSIT grad || Data Engineering Trainee || Aspiring Data Analyst
 
+Email Me 👉 ✉️ abhinavkumar0360@gmail.com For Collaboration/Project or Anything Else. 😊😊
+
+🔭 I’m currently working on: Backend - Databases(Oracle SQL/PostgreSQL)
+🌱 I’m currently learning: MS Power BI/Advanced Excel/Salesforce
+👯 I’m looking to collaborate on: Data Analystics/BigData Projects
+💬 Ask me about: Collaboration, Tech Support
+😄 Pronouns: He/Him
+⚡ Fun fact: I Love Data and Data loves me
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ridd____ler) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kunal-kumar-b35362250) 
 
