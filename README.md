@@ -1,6 +1,10 @@
 # Hey there!🙋‍♂️, My name is Kunal Kumar
 **CSIT grad || Data Engineering Trainee || Aspiring Data Analyst**
 
+<img align="right" alt="coding" width="400" src="https://www.bing.com/th/id/OGC.fa047d0f786403db4be5b92a8cb952b3?pid=1.7&rurl=https%3a%2f%2fc.tenor.com%2fwhgQwNlVvNkAAAAj%2fxero-code.gif&ehk=5it3Uy3aZsl8aocrvUM24i%2bP%2bmJRZPZCIzKSJaDuuKY%3d">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dezyjha101&label=Profile%20views&color=0e75b6&style=flat" alt="dezyjha101" /> </p>
+
 Email Me 👉 ✉️ abhinavkumar0360@gmail.com For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on: Backend - Databases(Oracle SQL/PostgreSQL)**
