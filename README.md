@@ -29,6 +29,7 @@ Email Me 👉 ✉️ abhinavkumar0360@gmail.com For Collaboration/Project or Any
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kunalkumar67&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github.com/users/kunalkumar67/achievements/pull-shark)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
