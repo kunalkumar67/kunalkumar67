@@ -31,6 +31,15 @@ Email Me 👉 ✉️ abhinavkumar0360@gmail.com For Collaboration/Project or Any
 ![](https://github-profile-trophy.vercel.app/?username=kunalkumar67&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 **<i><b>3🎖<b><i>**
 
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Kunal+Kumar" alt="Kunal" /></a>
+  <a href="https://github.com/kunalkumar67/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Data/BI-Tools/Enginnering;&font=Fira%20Code&center=true&width=440&height=45&color=d74c7e&vCenter=true&pause=1000&size=22" /></a>
+</p>
+
+
+
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
