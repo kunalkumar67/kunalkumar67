@@ -30,7 +30,6 @@ Email Me 👉 ✉️ abhinavkumar0360@gmail.com For Collaboration/Project or Any
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kunalkumar67&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-**<i><b>3🎖<b><i>**
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Kunal+Kumar" alt="Kunal" /></a>
