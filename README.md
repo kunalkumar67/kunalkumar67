@@ -1,7 +1,7 @@
 # Hey there!🙋‍♂️, My name is Kunal Kumar
 **CSIT grad || Data Engineering Trainee || Aspiring Data Analyst**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dezyjha101&label=Profile%20views&color=0e75b6&style=flat" alt="dezyjha101" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalkumar67&label=Profile%20views&color=0e75b6&style=flat" alt="kunalkumar67" /> </p>
 
 Email Me 👉 ✉️ abhinavkumar0360@gmail.com For Collaboration/Project or Anything Else. 😊😊
 
