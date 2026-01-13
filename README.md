@@ -8,7 +8,7 @@ Email Me 👉 ✉️ abhinavkumar0360@gmail.com For Collaboration/Project or Any
 - 🔭 **I’m currently working on: Backend - Databases(Oracle SQL/PostgreSQL)**
 - 🌱 **I’m currently learning: MS Power BI/Advanced Excel/Salesforce**
 - 👯 **I’m looking to collaborate on: Data Analystics/BigData Projects**
-- 💬 **Ask me about: Collaboration, Tech Support**
+- 💬 **Ask me about: Collaboration, Technology trends**
 - 😄 **Pronouns: He/Him**
 - ⚡ **Fun fact: I Love Data and Data loves me**
 
