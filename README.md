@@ -33,7 +33,7 @@ Email Me 👉 ✉️ abhinavkumar0360@gmail.com For Collaboration/Project or Any
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Kunal+Kumar" alt="Kunal" /></a>
-  <a href="https://github.com/kunalkumar67/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Data/BI-Tools/Enginnering;&font=Fira%20Code&center=true&width=440&height=45&color=d74c7e&vCenter=true&pause=1000&size=22" /></a>
+  <a href="https://github.com/kunalkumar67/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Data/BI-Tools/SoftwareEngineering;&font=Fira%20Code&center=true&width=440&height=45&color=d74c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 
