@@ -1,117 +1,56 @@
-# 👋 Hey there! I'm Kunal Kumar
+# Hey there!🙋‍♂️, My name is Kunal Kumar
+**IT grad || Data Engineering Trainee || Software Engineering**
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalkumar67&label=Profile%20views&color=0a43b6&style=flat" alt="kunalkumar67" /> </p>
+
+Email Me 👉 ✉️ abhinavkumar0360@gmail.com For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I'm currently working on: Backend - Python/Databases(MySQL/PostgreSQL)**
+- 🌱 **I'm currently learning: MS Power BI/Advanced Excel/APIs/React.js/JIRA/Django**
+- 👯 **I'm looking to collaborate on: Data Analystics/BigData Projects**
+- 💬 **Ask me about: Collaboration, Technology trends, Real-time optimised projects**
+- 😄 **Pronouns: He/Him**
+- ⚡ **Fun fact: I Love Data and Data loves me**
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ridd____ler) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white)](https://linkedin.com) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com)
+
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=kunalkumar67&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=kunalkumar67&theme=shades-of-purple&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kunalkumar67&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<!-- Snake Game Repo View -->
 <div align="center">
-
-**IT Graduate | Data Engineering Trainee | Software Engineer**
-
-[![Profile Views](https://komarev.com/ghpvc/?username=kunalkumar67&label=Profile%20views&color=0a43b6&style=flat)](https://github.com/kunalkumar67)
-[![GitHub followers](https://img.shields.io/github/followers/kunalkumar67?style=social)](https://github.com/kunalkumar67?tab=followers)
-
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
----
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=kunalkumar67&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 🎯 About Me
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Kunal+Kumar" alt="Kunal" /></a>
+  <a href="https://github.com/kunalkumar67/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Data/BI-Tools/SoftwareEngineering;&font=Fira%20Code&center=true&width=440&height=45&color=F70000" alt="Typing SVG" /></a>
+</p>
 
-Passionate about **Data Engineering**, **Backend Development**, and **Software Engineering**. I love transforming data into actionable insights and building scalable systems.
 
-- 🔭 **Currently Working On:** Backend Development with Python & Databases (MySQL/PostgreSQL)
-- 🌱 **Learning:** MS Power BI • Advanced Excel • APIs • React.js • JIRA • Django
-- 👯 **Collaborating On:** Data Analytics & Big Data Projects
-- 💬 **Ask Me About:** Technology Trends, Data Solutions, Optimized Backend Systems
-- 😄 **Pronouns:** He/Him
-- ⚡ **Fun Fact:** Data enthusiast | Coffee-fueled | Problem solver
 
----
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 📧 Get In Touch
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</p>
 
-<div align="center">
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=kunalkumar67&limit=5&theme=catppuccin_mocha&combine_all_yearly_contributions=true)
 
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhinavkumar0360@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ridd____ler)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com)
 
-</div>
 
 ---
+[![](https://visitcount.itsvg.in/api?id=kunalkumar67&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 💻 Tech Stack
-
-### Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-### 🔥 Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kunalkumar67&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
-
-### 🔥 Streak Stats
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=kunalkumar67&theme=shades-of-purple&hide_border=false)
-
-### 📝 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kunalkumar67&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=kunalkumar67&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-</div>
-
----
-
-## 🤝 Top Contributed Repositories
-
-<div align="center">
-
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=kunalkumar67&limit=5&theme=catppuccin_mocha&combine_all_yearly_contributions=true)
-
-</div>
-
----
-
-## 💡 Random Dev Quote
-
-<div align="center">
-
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
----
-
-<div align="center">
-
-![Visitor Badge](https://visitcount.itsvg.in/api?id=kunalkumar67&icon=0&color=0)
-
-**✨ Thanks for visiting my profile! Feel free to connect and collaborate. ✨**
-
-</div>
-
-<!-- Proudly created and maintained by Kunal Kumar -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
