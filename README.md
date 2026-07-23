@@ -10,7 +10,7 @@ Email Me 👉 ✉️ abhinavkumar0360@gmail.com For Collaboration/Project or Any
 - 👯 **I'm looking to collaborate on: Data Analystics/BigData Projects**
 - 💬 **Ask me about: Collaboration, Technology trends, Real-time optimised projects**
 - 😄 **Pronouns: He/Him**
-- ⚡ **Fun fact: I Love tech and tech loves me**
+- ⚡ **Fun fact: I Love tech and tech loves me xoxo**
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ridd____ler) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white)](https://linkedin.com) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com)
