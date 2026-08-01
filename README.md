@@ -1,11 +1,12 @@
 # Hey there!🙋‍♂️, My name is Kunal Kumar
 **IT grad || Data Engineering Trainee || Software Engineering**
+**Current Company @Accenture**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalkumar67&label=Profile%20views&color=0a43b6&style=flat" alt="kunalkumar67" /> </p>
 
 Email Me 👉 ✉️ abhinavkumar0360@gmail.com For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I'm currently working on: Backend - Python/Databases(MySQL/PostgreSQL)**
+- 🔭 **I'm currently working on: Backend - Python/Databases(MySQL/OracleDB)/Informatica Intelligent Cloud Services**
 - 🌱 **I'm currently learning: Devops/Data & AI/Informatica Intelligent Cloud Services**
 - 👯 **I'm looking to collaborate on: Data Analystics/BigData Projects**
 - 💬 **Ask me about: Collaboration, Technology trends, Real-time optimised projects**
