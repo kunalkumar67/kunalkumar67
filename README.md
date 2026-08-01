@@ -1,6 +1,5 @@
 # Hey there!🙋‍♂️, My name is Kunal Kumar
-**IT grad || Data Engineering Trainee || Software Engineering**
-**Current Company @Accenture**
+**IT grad || Data Engineering Trainee || Software Engineering || Current Company @Accenture**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalkumar67&label=Profile%20views&color=0a43b6&style=flat" alt="kunalkumar67" /> </p>
 
