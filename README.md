@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalkumar67&label=Profile%20views&color=0a43b6&style=flat" alt="kunalkumar67" /> </p>
 
-Email Me 👉 ✉️ abhinavkumar0360@gmail.com For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ abhinavkumar0360@gmail.com For Collaboration/Project. 😊😊
 
 - 🔭 **I'm currently working on: Backend - Python/Databases(MySQL/OracleDB)/Informatica Intelligent Cloud Services**
 - 🌱 **I'm currently learning: Devops/Data & AI/Informatica Intelligent Cloud Services**
