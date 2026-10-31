@@ -1,5 +1,5 @@
 # Hey there!🙋‍♂️, My name is Kunal Kumar
-**IT grad || FullStack IICS || Analyst@Accenture**
+**IT graduate || FullStack IICS || Analyst@Accenture**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalkumar67&label=Profile%20views&color=0a43b6&style=flat" alt="kunalkumar67" /> </p>
 
 Email Me 👉 ✉️ abhinavkumar0360@gmail.com For Collaboration/Project. 😊😊
